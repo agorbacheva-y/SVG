@@ -1,18 +1,21 @@
 <svg width="500" height="375" fill="none" xmlns="http://www.w3.org/2000/svg">
     <symbol id="mastercard" viewbox="0 0 500 375">
-        <rect width="400" height="250" x="50" y="75" rx="20" fill="#f3c31c" />
-        <polyline points="50,125 450,125 450,175 50,175" fill="#806f5e" />
+        <rect width="375" height="250" x="50" y="75" rx="20" fill="#f3c31c" />
+        <polyline points="50,125 425,125 425,175 50,175" fill="#806f5e" />
 
         <!-- two longer yellow lines -->
-        <line x1="100" y1="200" x2="160" y2="200" stroke="#f8ebb0" stroke-width="12.5" stroke-linecap="round" />
-        <line x1="185" y1="200" x2="245" y2="200" stroke="#f8ebb0" stroke-width="12.5" stroke-linecap="round" />
+        <line x1="93" y1="200" x2="153" y2="200" stroke="#f8ebb0" stroke-width="12.5" stroke-linecap="round" />
+        <line x1="178" y1="200" x2="238" y2="200" stroke="#f8ebb0" stroke-width="12.5" stroke-linecap="round" />
 
         <!-- five shorter yellow lines -->
-        <line x1="100" y1="225" x2="107" y2="225" stroke="#f8ebb0" stroke-width="12.5" stroke-linecap="round" />
-        <line x1="132" y1="225" x2="147" y2="225" stroke="#f8ebb0" stroke-width="12.5" stroke-linecap="round" />
-        <line x1="172" y1="225" x2="179" y2="225" stroke="#f8ebb0" stroke-width="12.5" stroke-linecap="round" />
-        <line x1="204" y1="225" x2="219" y2="225" stroke="#f8ebb0" stroke-width="12.5" stroke-linecap="round" />
-        <line x1="244" y1="225" x2="245" y2="225" stroke="#f8ebb0" stroke-width="12.5" stroke-linecap="round" />
-        <circle cx="350" cy="250" r="25" fill="#db2315" />
+        <line x1="93" y1="225" x2="100" y2="225" stroke="#f8ebb0" stroke-width="12.5" stroke-linecap="round" />
+        <line x1="125" y1="225" x2="140" y2="225" stroke="#f8ebb0" stroke-width="12.5" stroke-linecap="round" />
+        <line x1="165" y1="225" x2="172" y2="225" stroke="#f8ebb0" stroke-width="12.5" stroke-linecap="round" />
+        <line x1="197" y1="225" x2="212" y2="225" stroke="#f8ebb0" stroke-width="12.5" stroke-linecap="round" />
+        <line x1="237" y1="225" x2="238" y2="225" stroke="#f8ebb0" stroke-width="12.5" stroke-linecap="round" />
+
+        <!-- two circles -->
+        <circle cx="325" cy="260" r="35" fill="#db2315" />
+        <circle cx="360" cy="260" r="35" fill="#245ea9" />
     </symbol>
 </svg>
